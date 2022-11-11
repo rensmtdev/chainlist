@@ -83,6 +83,11 @@
             "https://nunki.htznr.fault.dev/rpc"
         ]
     },
+    "281028": {
+        "rpcs": [
+            "https://rpc.salmonscan.com"
+        ]
+    },
     "56": {
         "rpcs": [
             "https://bsc-dataseed.binance.org/",
